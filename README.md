@@ -9,7 +9,7 @@ Lot 3 has variance in excess of 100 psi and therefore does not meet the acceptab
 
 
 ## T-Tests on Suspension Coils:
-Lot 1 and 2 are fairly representative of the general population. Lot 3 is statistically different from the population. It's mean is less by about 4 PSI, it's variance is far greater than other lots.
+Lot 1 and 2 are fairly representative of the general population. Lot 3 is statistically different from the population. It's mean is less by about 4 PSI and it's variance is far greater than other lots.
 
 
 ## Study Design: MechaCar vs Competition:
